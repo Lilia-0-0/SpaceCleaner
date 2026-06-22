@@ -1,0 +1,30 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+*.booproj
+*.suo
+*.user
+*.asset
+*.meta
+*.unitypackage
+
+# Visual Studio
+.vs/
+*.vssscc
+*.vspscc
+
+# Rider
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
